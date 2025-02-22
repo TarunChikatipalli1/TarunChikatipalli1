@@ -34,8 +34,8 @@
 
 ## **📊 Tech Stack & Skills**
 🚀 **Bioinformatics Tools:** Nextflow | Snakemake | Seurat | STAR | Kallisto | CellRanger  
-💻 **Programming & Scripting:** Python | R | Bash | JavaScript | Streamlit | Shiny  
-☁️ **Cloud & HPC:** AWS | Slurm | Docker | Singularity  
+💻 **Programming & Scripting:** Python | R | Bash  | Streamlit | Shiny  
+☁️ **Cloud & HPC:** AWS | Slurm | Docker 
 🧠 **Machine Learning for Bioinformatics:** Scikit-learn | TensorFlow | PyTorch | RDKit  
 
 ---
@@ -54,20 +54,6 @@
 🏓 Love **table tennis** & debating about **tech innovations**.  
 🌍 Dreaming of building **bioinformatics tools for global impact**!  
 
----
 
-## **📌 How This Helps You Stand Out**
-✅ **Unique Personal Branding** — Highlights your strengths & research interests.  
-✅ **Engaging & Clean Layout** — Makes your profile **easy to read** & **memorable**.  
-✅ **Clickable Links** — Encourages networking and showcasing projects.  
-✅ **SEO-Optimized** — Helps recruiters & researchers **find you** faster.  
 
----
 
-## **🎯 Next Steps**
-1. **Commit this `README.md` to your GitHub profile repository**.
-2. **Update descriptions for each pinned repository** for better visibility.
-3. **Add project demo links or visuals** (e.g., screenshots, GIFs).
-4. **Deploy some of your projects on Streamlit, Shiny, or AWS** for an interactive portfolio.
-
-🚀 **Now your GitHub will look professional and attract more opportunities!** Let me know if you need further improvements! 🔥
